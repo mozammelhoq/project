@@ -1,0 +1,61 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    margin: 0;
+}
+h1{
+    margin-top: 80px;
+}
+.orange-color{
+    color: orange;
+}
+.flexybol{
+    display: flex;
+    text-align:left ;
+}
+.hlaf-witdh{
+width: 50%;
+padding: 2%;
+}
+.hlaf-witdh img{
+width:80%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(#fdaa8f, #f54c09);
+    border-radius: 30px;
+    padding: 10px 20px;
+    color:white;
+    font-weight: 700;
+    font-size: 10px;
+    margin-top: 20px;
+}
+.midol-bannar{
+background-image: url(imges/7.png);
+background-repeat: no-repeat; 
+
+}
+.similer{
+width: 28%;
+margin-left: 3%;
+margin-right: 3%;
+padding: 10px;
+border-radius: 20px;
+box-shadow:10px 10px 60px gray;
+}
+.similer img{
+    width: 98%;
+    margin-top: 3px;
+    margin-bottom: 10px;
+    padding:5px ;
+    border-radius: 20px;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+#text{
+    text-align: center;
+}
